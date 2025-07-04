@@ -1,0 +1,13 @@
+
+body {
+    background: linear-gradient(to right, #000000, #FFD700);
+    font-family: Tahoma, sans-serif;
+    color: #111;
+    padding: 2rem;
+}
+h1 {
+    color: #FFD700;
+}
+a {
+    color: blue;
+}
